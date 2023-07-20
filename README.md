@@ -9,7 +9,7 @@ local Beklauter = {} or "Profile"
 
 local function Profile()
     local Name = "Beklauter";
-    local languages[6] = {"Lua", "HTML", "CSS", "Java"};
+    local languages = {"Lua", "HTML", "CSS", "Java"};
     local discordId = 818482828794658856;
 end
 ```
