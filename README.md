@@ -34,3 +34,5 @@ end
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beklauter&show_icons=true&locale=en" alt="beklauter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beklauter&" alt="beklauter" /></p>
+
+<img src="https://raw.githubusercontent.com/keksgauner/KeksGauner/output/snake.svg" alt="Snake animation" />
