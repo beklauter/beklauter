@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Gmod**
 
-- 📫 How to reach me **beklauter on discord**
+- 📫 How to reach me **beklauter** on discord
 
  ```lua
 local Beklauter = {} or "Profile"
