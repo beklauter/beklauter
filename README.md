@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **How get better in Game Coding**
+- 🌱 I’m currently learning **How to get better in Game Coding**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
