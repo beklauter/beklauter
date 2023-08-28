@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beklauter&label=Profile%20views&color=0e75b6&style=flat" alt="beklauter" /> </p>
 
-- 🔭 I’m currently working on **Matrix**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **How to code API's in Glua**
+- 🌱 I’m currently learning **How get better in Game Coding**
 
-- 👯 I’m looking to collaborate on **Gmod**
+- 👯 I’m looking to collaborate on **Nothing**
 
-- 📫 How to reach me **beklauter** on discord
+- 📫 How to reach me? Just **beklauter** on discord
 
  ```lua
 local Beklauter = {} or "Profile"
 
 local function Profile()
-    local Name = "Beklauter";
-    local languages = {"Lua", "HTML", "CSS", "Java"};
-    local discordId = 818482828794658856;
+    local Name = "Beklauter"
+    local languages = {"Lua", "HTML", "CSS", "Kotlin"}
+    local discordId = 818482828794658856
 end
 ```
 
