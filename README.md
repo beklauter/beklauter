@@ -12,7 +12,7 @@
 - 📫 How to reach me? Just **beklauter** on discord
 
  ```lua
-local Beklauter = {} or "Profile"
+local Beklauter = Beklauter or {}
 
 local function Profile()
     local Name = "Beklauter"
