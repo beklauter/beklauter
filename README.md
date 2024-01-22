@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm beklauter</h1>
+<h1 align="center">Hi 👋, I'm Senyura</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beklauter&label=Profile%20views&color=0e75b6&style=flat" alt="beklauter" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Some basic Clients**
 
-- 🌱 I’m currently learning **How to get better in Unreal Engine**
+- 🌱 I’m currently learning **Game Hacking**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
-- 📫 How to reach me? Just **beklauter** on discord
+- 📫 How to reach me? Just **wsenyura** on discord
 
  ```lua
-local Beklauter = Beklauter or {}
+local Senyura = Senyura or {}
 
 local function Profile()
-    local Name = "Beklauter"
+    local Name = "Senyura"
     local languages = {"Lua", "HTML", "CSS", "Kotlin"}
     local discordId = 818482828794658856
 end
