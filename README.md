@@ -16,7 +16,7 @@ local Senyura = Senyura or {}
 
 local function Profile()
     local Name = "Senyura"
-    local languages = {"Lua", "HTML", "CSS", "Kotlin"}
+    local languages = {"C++", "Lua", "HTML", "CSS", "Kotlin"}
     local discordId = 818482828794658856
 end
 ```
