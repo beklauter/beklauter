@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beklauter&label=Profile%20views&color=0e75b6&style=flat" alt="beklauter" /> </p>
 
-- 🔭 I’m currently working on **Some basic Clients**
+- 🔭 I’m currently working on **?**
 
-- 🌱 I’m currently learning **Game Hacking**
+- 🌱 I’m currently learning **?**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **?**
 
 - 📫 How to reach me? Just **wsenyura** on discord
 
