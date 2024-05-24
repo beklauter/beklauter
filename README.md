@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Senyura</h1>
+<h1 align="center">Hi 👋, I'm Beklauter</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beklauter&label=Profile%20views&color=0e75b6&style=flat" alt="beklauter" /> </p>
 
-- 🔭 I’m currently working on **?**
+- 🔭 I’m currently working on a **Fully Custom Coded SCP Server**
 
-- 🌱 I’m currently learning **?**
+- 🌱 I’m currently learning **C++ and Stuff**
 
-- 👯 I’m looking to collaborate on **?**
+- 👯 I’m looking to collaborate on **nothing**
 
-- 📫 How to reach me? Just **wsenyura** on discord
+- 📫 How to reach me? Just **beklauter** on discord
 
  ```lua
-local Senyura = Senyura or {}
+Beklauter = Beklauter or {}
 
-local function Profile()
-    local Name = "Senyura"
-    local languages = {"C++", "Lua", "HTML", "CSS", "Kotlin"}
-    local discordId = 818482828794658856
+function Beklauter.Profile()
+    local Name = "Beklauter"
+    local languages = {"C++", "GLua", "HTML", "CSS", "Java"}
+    local discordId = 1192883379385946153
 end
+
+Beklauter.Profile()
 ```
 
 <h3 align="left">Connect with me:</h3>
