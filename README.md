@@ -16,7 +16,7 @@ Beklauter = Beklauter or {}
 
 function Beklauter.Profile()
     local Name = "Beklauter"
-    local languages = {"C++", "GLua", "HTML", "CSS", "Java"}
+    local languages = {"C", "C++", "Rust", "Lua", "HTML", "CSS", "Java"}
     local discordId = 1192883379385946153
 end
 
