@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beklauter&label=Profile%20views&color=0e75b6&style=flat" alt="beklauter" /> </p>
 
-- 🔭 I’m currently working on a **Fully Custom Coded SCP Server**
+- 🔭 I’m currently working on a **Some Small Projects**
 
-- 🌱 I’m currently learning **C++ and Stuff**
+- 🌱 I’m currently learning **C++ and Rust**
 
 - 👯 I’m looking to collaborate on **nothing**
 
