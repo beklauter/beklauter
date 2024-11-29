@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **C++ and Rust**
 
-- 👯 I’m looking to collaborate on **nothing**
-
-- 📫 How to reach me? Just **beklauter** on discord
-
  ```lua
 Beklauter = Beklauter or {}
 
