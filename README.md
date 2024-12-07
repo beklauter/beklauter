@@ -5,14 +5,14 @@
 ```rust
 fn main() {
     let bio = vec![
-        ("- ⚡ Quick bio:", "A 17-year-old tech enthusiast exploring the world of programming and currently deep diving into Rust."),
-        ("- 🎂 Age:", "17"),
-        ("- 🔭 I’m currently working on:", "Personal Rust projects to sharpen my skills and build cool things."),
-        ("- 🌱 I’m currently learning:", "Rust, systems programming concepts, and open-source contribution."),
-        ("- 👯 I’m looking to collaborate on:", "Rust-based projects, open-source initiatives, or anything that seems fun and challenging."),
-        ("- 🤔 I’m looking for help with:", "Advanced Rust concepts and best practices."),
-        ("- 💬 Ask me about:", "Rust, coding in general, or anything tech-related!"),
-        ("- 📫 How to reach me:", "https://github.com/cxlnxyz"),
+        ("Age:", "17"),
+        ("Location:", "Germany"),
+        ("Focus:", "Learning Rust and systems programming."),
+        ("Interests:", "Game development, backend systems, game hacking, malware, and contributing to open-source"),
+        ("Programming Languages:", "Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more"),
+        ("Currently:", "Building personal Rust projects to solidify my knowledge."),
+        ("Collaboration:", "Interested in joining Rust-based or open-source projects."),
+        ("Contact:", "https://github.com/cxlnxyz"),
     ];
 
     for (key, value) in bio {
@@ -40,6 +40,7 @@ fn main() {
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
