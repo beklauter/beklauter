@@ -5,7 +5,8 @@
 ```rust
 fn main() {
     let bio = vec![
-        ("- ⚡ Quick bio:", "A tech enthusiast exploring the world of programming and currently deep diving into Rust."),
+        ("- ⚡ Quick bio:", "A 17-year-old tech enthusiast exploring the world of programming and currently deep diving into Rust."),
+        ("- 🎂 Age:", "17"),
         ("- 🔭 I’m currently working on:", "Personal Rust projects to sharpen my skills and build cool things."),
         ("- 🌱 I’m currently learning:", "Rust, systems programming concepts, and open-source contribution."),
         ("- 👯 I’m looking to collaborate on:", "Rust-based projects, open-source initiatives, or anything that seems fun and challenging."),
