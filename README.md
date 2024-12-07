@@ -41,6 +41,9 @@ fn main() {
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/jetbrains_ides-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDEs">
+  <img src="https://img.shields.io/badge/rustrover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="RustRover">
+  <img src="https://img.shields.io/badge/cisco_packet_tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
