@@ -11,7 +11,7 @@ fn main() {
         ("Interests:", "Game development, backend systems, game hacking, malware, and contributing to open-source"),
         ("Programming Languages:", "Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more"),
         ("Currently:", "Building personal Rust projects to solidify my knowledge."),
-        ("Collaboration:", "Interested in joining Rust-based or open-source projects."),
+        ("Collaboration:", "Interested joining Rust-based or open-source projects."),
         ("Contact:", "https://github.com/cxlnxyz"),
     ];
 
