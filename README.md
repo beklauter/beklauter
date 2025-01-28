@@ -5,7 +5,7 @@
 ```rust
 fn main() {
     let bio = vec![
-        ("Age:", "17"),
+        ("Age:", "18"),
         ("Location:", "Germany"),
         ("Focus:", "Learning Rust and systems programming."),
         ("Interests:", "Game development, backend systems, game hacking, malware, and contributing to open-source"),
