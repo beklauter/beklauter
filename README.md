@@ -1,4 +1,4 @@
-<h1 align="center">cxln | cxlnxyz</h1>
+<h1 align="center">beklauter</h1>
 
 <h2 align="center">About me</h2>
 
@@ -12,7 +12,7 @@ fn main() {
         ("Programming Languages:", "Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more"),
         ("Currently:", "Building personal Rust projects to solidify my knowledge."),
         ("Collaboration:", "Interested joining Rust-based or open-source projects."),
-        ("Contact:", "https://github.com/cxlnxyz"),
+        ("Contact:", "https://github.com/beklauter"),
     ];
 
     for (key, value) in bio {
@@ -25,11 +25,11 @@ fn main() {
 
 <p align="center">
   <a href="https://github.com/cxlnxyz">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="cxln's GitHub Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="beklauter's GitHub Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/cxlnxyz">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="cxln's LinkedIn Profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/beklauter">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="beklauter's LinkedIn Profile" height="30" width="30">
   </a>
 </p>
 
@@ -50,14 +50,14 @@ fn main() {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{cxlnxyz}/count.svg" alt="cxln :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{beklauter}/count.svg" alt="cxln :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxlnxyz&langs_count=10&theme=tokyonight&layout=compact" alt="cxln :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beklauter&langs_count=10&theme=tokyonight&layout=compact" alt="beklauter :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cxlnxyz&show_icons=true&theme=synthwave" alt="cxln :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beklauter&show_icons=true&theme=synthwave" alt="beklauter :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
