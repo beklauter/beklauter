@@ -24,7 +24,7 @@ fn main() {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://github.com/cxlnxyz">
+  <a href="https://github.com/beklauter">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="beklauter's GitHub Profile" height="30" width="30">
   </a>
 
