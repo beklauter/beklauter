@@ -1,4 +1,4 @@
-<h1 align="center">beklauter</h1>
+<h1 align="center">Beklauter</h1>
 
 <h2 align="center">About me</h2>
 
@@ -7,7 +7,7 @@ fn main() {
     let bio = vec![
         ("Age:", "18"),
         ("Location:", "Germany"),
-        ("Focus:", "Learning Rust and systems programming."),
+        ("Focus:", "Learning Cybersecurity"),
         ("Interests:", "Game development, backend systems, game hacking, malware, and contributing to open-source"),
         ("Programming Languages:", "Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more"),
         ("Currently:", "Learning how to write Malware."),
