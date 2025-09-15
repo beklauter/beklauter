@@ -7,7 +7,7 @@ fn main() {
     let bio = vec![
         ("Age:", "18"),
         ("Location:", "Germany"),
-        ("Focus:", "Learning Cybersecurity, Rust and Game Development"),
+        ("Focus:", "Learning React, Rust and Game Development"),
         ("Interests:", "Game development, backend systems, game hacking, malware, and contributing to open-source"),
         ("Programming Languages:", "Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more"),
         ("Currently:", "Learning Rust."),
