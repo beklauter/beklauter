@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: **Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more.**
+  🦄 Languages: \*\*Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more.\*\*
 </p>
 
 <p align="left">
-  💼 Tools: **VS Code, JetBrains IDEs (RustRover, CLion, Pycharm), Git, GitHub, Cisco Packet Tracer, Sophos, FritzBox configuration.**
+  💼 Tools: \*\*VS Code, JetBrains IDEs (RustRover, CLion, Pycharm), Git, GitHub, Cisco Packet Tracer, Sophos, FritzBox configuration.\*\*
 </p>
 
 <p align="left">
@@ -21,6 +21,9 @@
 <p align="left">
   <a href="mailto:beklauter@flux-panel.de" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/darthsteifus" title="Discord">
+    <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
