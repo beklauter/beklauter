@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: \*\*Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more.\*\*
+  🦄 Languages: Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more.
 </p>
 
 <p align="left">
-  💼 Tools: \*\*VS Code, JetBrains IDEs (RustRover, CLion, Pycharm), Git, GitHub, Cisco Packet Tracer, Sophos, FritzBox configuration.\*\*
+  💼 Tools: VS Code, JetBrains IDEs (RustRover, CLion, Pycharm), Git, GitHub, Cisco Packet Tracer, Sophos, FritzBox configuration.
 </p>
 
 <p align="left">
