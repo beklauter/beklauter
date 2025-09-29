@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: VS Code, JetBrains IDEs (RustRover, CLion, Pycharm), Git, GitHub, Cisco Packet Tracer, Sophos, FritzBox configuration.
+  💼 Tools: VS Code, JetBrains IDEs (RustRover, CLion, PyCharm), Git, GitHub, Cisco Packet Tracer, Sophos, FritzBox configuration.
 </p>
 
 <p align="left">
