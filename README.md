@@ -1,63 +1,34 @@
-<h1 align="center">Beklauter</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400px" align="right">
 
-<h2 align="center">About me</h2>
+<p align="left"> 
+  Hello, I'm Beklauter! I am an IT apprentice specializing in system integration, deeply interested in programming and IT systems.<br>
+  Currently, I am spending a lot of time learning and working with Python and React.
+</p>
 
-```rust
-fn main() {
-    let bio = vec![
-        ("Age:", "18"),
-        ("Location:", "Germany"),
-        ("Focus:", "Learning React, Rust and Game Development"),
-        ("Interests:", "Game development, backend systems, game hacking, malware, and contributing to open-source"),
-        ("Programming Languages:", "Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more"),
-        ("Currently:", "Learning Rust."),
-        ("Collaboration:", "Interested joining Rust-based or open-source projects."),
-        ("Contact:", "https://github.com/beklauter"),
-    ];
+<p align="left">
+  🦄 Languages: **Rust, C++, Java, Kotlin, Python, JavaScript, Lua, and more.**
+</p>
 
-    for (key, value) in bio {
-        println!("{} {}", key, value);
-    }
-}
-```
+<p align="left">
+  💼 Tools: **VS Code, JetBrains IDEs (RustRover, CLion, Pycharm), Git, GitHub, Cisco Packet Tracer, Sophos, FritzBox configuration.**
+</p>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<p align="left">
+  💌 Contact me here: ⤵️
+</p>
 
-<p align="center">
-  <a href="https://github.com/beklauter">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="beklauter's GitHub Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/beklauter">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="beklauter's LinkedIn Profile" height="30" width="30">
+<p align="left">
+  <a href="mailto:beklauter@flux-panel.de" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+---
 
-<p align="center">Tools and technologies I use or explore:</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/jetbrains_ides-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDEs">
-  <img src="https://img.shields.io/badge/rustrover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="RustRover">
-  <img src="https://img.shields.io/badge/cisco_packet_tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
-</p>
+<h2 align="center">My GitHub Stats :bar_chart:</h2>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/beklauter/count.svg" alt="Visitor count" /></p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beklauter&langs_count=10&theme=tokyonight&layout=compact" alt="Top languages" /></p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{beklauter}/count.svg" alt="beklauter :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beklauter&langs_count=10&theme=tokyonight&layout=compact" alt="beklauter :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beklauter&show_icons=true&theme=synthwave" alt="beklauter :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beklauter&show_icons=true&theme=synthwave" alt="Profile stats" /></p>
