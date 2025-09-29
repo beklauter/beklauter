@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=beklauter&color=006bed)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400px" align="right">
 
 <p align="left"> 
@@ -26,8 +27,6 @@
 ---
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/beklauter/count.svg" alt="Visitor count" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beklauter&langs_count=10&theme=tokyonight&layout=compact" alt="Top languages" /></p>
 
