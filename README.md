@@ -22,7 +22,7 @@
   <a href="mailto:beklauter@flux-panel.de" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://discord.com/users/darthsteifus" title="Discord">
+  <a href="https://discord.com/users/818482828794658856" title="Discord">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
