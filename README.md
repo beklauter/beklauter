@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Hello, I'm Beklauter! I am an IT apprentice specializing in system integration, deeply interested in programming and IT systems.<br>
-  Currently, I am spending a lot of time learning and working with Python and React.
+  Currently, I am spending a lot of time learning and working with C++ and React.
 </p>
 
 <p align="left">
