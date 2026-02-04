@@ -32,13 +32,11 @@
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beklauter&theme=onedark&no-frame=true&no-bg=true" alt="Trophy" />
+  <img src="https://img.shields.io/github/profile-trophy/beklauter?color=green&label=Trophies" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/beklauter?color=blue&label=Followers" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://stats.justsaying.dev/api/github/profile/beklauter" alt="Profile stats" />
-</p>
-
-<p align="center">
-  <img src="https://stats.justsaying.dev/api/github/top-langs?username=beklauter&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://img.shields.io/github/stars/beklauter?color=yellow&label=Stars" />
+  <img src="https://img.shields.io/github/languages/top/beklauter?color=orange" alt="Top Langs" />
 </p>
