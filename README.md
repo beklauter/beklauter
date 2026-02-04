@@ -31,6 +31,14 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beklauter&langs_count=10&theme=tokyonight&layout=compact" alt="Top languages" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beklauter&theme=onedark&no-frame=true&no-bg=true" alt="Trophy" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beklauter&show_icons=true&theme=synthwave" alt="Profile stats" /></p>
+<p align="center">
+  <img src="https://stats.justsaying.dev/api/github/profile/beklauter" alt="Profile stats" />
+</p>
+
+<p align="center">
+  <img src="https://stats.justsaying.dev/api/github/top-langs?username=beklauter&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
