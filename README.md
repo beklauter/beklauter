@@ -26,15 +26,3 @@
     <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
-
----
-
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/beklauter?color=blue&label=Followers" alt="Followers" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/beklauter?color=yellow&label=Stars" />
-</p>
