@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=Full-Stack%20Developer;Open%20Source%20Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Full-Stack%20Developer;Open%20Source%20Developer;Isolated)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:beklauter@beklauter.de) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://beklauter.de) ![Profile Views](https://komarev.com/ghpvc/?username=Beklauter&color=a855f7&style=flat-square)
 
